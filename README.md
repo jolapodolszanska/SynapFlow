@@ -2,10 +2,6 @@
 
 **SynapFlow** is a numerical simulation project focused on modeling neural and nerve dynamics using simplified mathematical neuron models.
 
-# Procedural Modeling of Neuronal Morphology and Axonal Bundles
-
-This repository contains a **fully self-contained Python implementation** for procedural modeling of neuronal morphologies and axon-like cables using stochastic growth rules.
-
 The code generates a multi-panel figure (A–D) illustrating different biological scenarios:
 - populations of pyramidal-like neurons,
 - a single highly branched neuron,
